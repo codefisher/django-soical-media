@@ -6,6 +6,10 @@ register = template.Library()
 
 BUTTON_TEMPLATES = {
     "twitter": template.loader.get_template('social_media_buttons/buttons/twitter.html'),
+    "googleplus": template.loader.get_template('social_media_buttons/buttons/googleplus.html'),
+    "facebook": template.loader.get_template('social_media_buttons/buttons/facebook.html'),
+    "linkedin": template.loader.get_template('social_media_buttons/buttons/linkedin.html'),
+    "reddit": template.loader.get_template('social_media_buttons/buttons/reddit.html'),
 }
 
 def do_social_media_buttons(parser, token):
