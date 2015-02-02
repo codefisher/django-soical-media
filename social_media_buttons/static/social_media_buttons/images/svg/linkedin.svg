@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128" height="128" >
+<rect fill="#0077B5" width="128" height="128"/>
+ <g transform="scale(1.5,-1.5) translate(-32,-105)">
+      <path
+         d="m 61.8728,37.749 0,33.794 -11.2325,0 0,-33.794 11.2325,0 z m -5.6163,38.408 c 3.917,0 6.355,2.595 6.355,5.838 -0.073,3.316 -2.438,5.839 -6.2807,5.839 -3.8423,0 -6.3545,-2.523 -6.3545,-5.839 0,-3.243 2.4375,-5.838 6.207,-5.838 l 0.073,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 68.0881,37.749 11.2324,0 0,18.872 c 0,1.01 0.073,2.019 0.3696,2.741 0.812,2.018 2.6602,4.108 5.7632,4.108 4.0645,0 5.6904,-3.099 5.6904,-7.642 l 0,-18.079 11.2315,0 0,19.377 c 0,10.38 -5.5415,15.21 -12.9316,15.21 -6.0596,0 -8.7198,-3.387 -10.1978,-5.694 l 0.075,0 0,4.901 -11.2324,0 c 0.1474,-3.171 0,-33.794 0,-33.794 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+ </g>
+</svg>
